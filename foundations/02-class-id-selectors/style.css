@@ -1,0 +1,20 @@
+.odd_ones {
+    background-color: rgb(247, 199, 207);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#numba_2 {
+    color: rgb(17, 17, 177);
+    font-size: 36px;
+}
+
+.odd_ones,
+.plus_three {
+    font-size: 24px;
+}
+
+#numba_4 {
+    background-color: rgb(18, 226, 18);
+    font-size: 24px;
+    font-weight: bold;
+}
