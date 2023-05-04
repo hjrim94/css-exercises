@@ -14,6 +14,8 @@
   background: white;
   padding: 4px 32px;
   border: 2px red solid;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 ul {
@@ -23,6 +25,8 @@ ul {
   display: flex;
   padding-left: 0;
   gap: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 a {
