@@ -1,6 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  border: 2px black solid;
 }
 
 .logo {
