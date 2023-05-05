@@ -20,6 +20,7 @@ img {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  gap: 52px;
 }
 
 .plants{
